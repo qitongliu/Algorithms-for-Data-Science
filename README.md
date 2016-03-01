@@ -12,5 +12,5 @@ Given a flow network with capacities and costs, the goal is to find a feasible f
 
 4. NP-Hard Problems: Independent Set     
 An independent set in a graph is a set of nodes such that no two nodes are adjacent (connected by an edge). Finding the maximum size of an independent set in a graph is an NP-hard problem, so there is no known polynomial-time algorithm to solve it.    
-I will use integer programming and linear programming relaxation to solve it.    
+Use integer programming and linear programming relaxation to solve it.    
 
