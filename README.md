@@ -1,6 +1,6 @@
 # Algorithms for Data Science
 
-1. DFS: Connected Components of Undirected Graphs
+1. DFS: Connected Components of Undirected Graphs \n
 Use the NetworkX Python package to represent and manipulate graphs
 Implement DFS algorithm for identifying the connected components of an undirected graph
 
